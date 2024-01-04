@@ -17,6 +17,7 @@ All of Dr. Sean Olive's blog postings found [here,](seanolive.blogspot.com) refo
 
 ## 2008
 ### Welcome to My Blog on the Science of Sound Recording and Reproduction
+![image](https://github.com/patch46/seanolive.blogspot-md-reformat-archive/assets/155677375/c9820c5c-e9ea-4109-aea6-a781ab2d489f)
 This blog is concerned with all matters related to the quality of recorded and reproduced sound. Some of the topics I hope to cover in upcoming posts include recording technology, listening tests, loudspeakers, headphones, automotive audio, and acoustical interactions between loudspeakers and listening rooms.
 
 I am an audio scientist by profession, and in matters related to the sound quality, I prefer to make conclusions based on hard scientific evidence gathered through properly controlled listening tests and meaningful objective measurements. Unfortunately, most of the audio industry doesn't operate this way. Why not? Quality subjective and objective measurements require significant investments in time, facilities, and expertise, whereas opinions on sound quality cost almost nothing.  Sometimes you get what you pay for.
