@@ -87,9 +87,8 @@ If space is available, and the electronics can support the additional loudspeake
 
 Circular arrangements use a lot of space, are incompatible with most domestic rooms and, consequently, are rare. Differing distances in the common rectangular arrangements need to be compensated for using delays in the setup routine. The side wall loudspeakers have all been illustrated as on-wall types. They could have been in-wall designs. In either case Figure 1 (d) shows that the prime listener is 45° off the design axis of the rear loudspeakers. This is not likely to deliver a flat direct sound to the prime listener, and equalization is not a desirable solution. Elevation loudspeakers at ceiling height sometimes present even greater off-axis problems. There are two options: use bracket-mounted loudspeakers and aim them at the listener, as in Figure 1 (f); or select a loudspeaker that has good performance at that off-axis angle. The front side loudspeakers are within a reasonable listening window for this listener. 
 
-<sub>Figure 1. Suggested arrangements for common multichannel formats.<sub>
 ![0](https://github.com/patch46/audio-reproduction-readme/assets/155677375/6aabd902-33ba-4f80-a9f1-89a023b510f7)
-
+_Figure 1. Suggested arrangements for common multichannel formats._
 
 
 </details>
