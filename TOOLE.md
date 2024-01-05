@@ -23,7 +23,7 @@ In addition to numerous publications in magazines, convention preprints and refe
 
 <summary>Part 1</summary>
 
-#### Introduction
+### Introduction
 Designing a custom home theater is often as much a matter of visual aesthetics and atmosphere as it is sound or video quality. High levels of ornamentation are no assurance of good sound, although expectations will undoubtedly be high. Getting good sound is a separate exercise, and few interior designers are aware of, much less sympathetic to, acoustical needs. One is sometimes presented with a visually attractive—depending on individual taste—design at the outset. The large screen is featured, but all else is expected as if by magic, to be massaged to fit within the visible shell. In some designs, most of the interior surfaces are covered with fabric, which hides much ugliness, but which can contribute to making the theater overly dead unless the fabric is acoustically transparent. The loudspeaker and acoustical requirements need to be conveyed to the interior designer at the earliest possible stage. There may well be “negotiations,” but when the lights are down, the ornaments fade, but the sound remains. Let it be a challenge to the creativity of the designer to deliver a pleasant visual design that does not compromise the sound or the picture. For the interior designer, the theater is the product. For audio people, the sound is the product. Compromises may be necessary.
 
 For many designers and owners, it is assumed that the loudspeakers should be invisible. This is not always possible, and if the highest level of performance is desired, it may not be desirable. Industrial-strength appliances are somehow fashionable in domestic kitchens, where they are probably not necessary, but loudspeakers that provide beautiful music of all kinds and an essential component to movies must be invisible? Obviously, I’m biased!
@@ -53,7 +53,7 @@ Loudspeakers and rooms function as systems—both are involved in what we measur
 
 <summary>Part 2</summary>
 
-#### Introduction
+### Introduction
 There are three basic arrangements of loudspeakers to be considered at the present time: 
 - Stereo
 - 5.1 and 7.1
@@ -72,7 +72,7 @@ Side, rear and overhead loudspeakers can be more challenging. The reason is that
 
 This means that some thought must be given to the kind of loudspeakers used in the surround/immersive systems if listeners are to have the highest quality experience. This includes constraints imposed by the dwelling itself and by the customers, many of whom want “invisible” loudspeakers. Obviously, apartment dwellers cannot use in-wall/ceiling designs, so on-wall or bracket mounted small loudspeakers are the options. Listeners should be situated on axis or within a reasonable off-axis listening window of the in-/on-wall/ceiling loudspeakers for sound quality to be maximized. Some scaled room layout drawings and a protractor are required (or the computer graphic equivalent).
 
-#### Basic Stereo and Multichannel Floor Plans
+### Basic Stereo and Multichannel Floor Plans
 The principal requirement for stereo is two identical loudspeakers at equal distances from the listener (it is designed for only one listener) and located at about ± 30°, although smaller soundstages are common.
 
 Chapter 15 provides a lot of detailed information on optimizing multichannel layouts. The following is just a sample.
